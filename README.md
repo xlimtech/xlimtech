@@ -25,12 +25,12 @@
 
 
 
-### Welcome to my Git profile HEADER 
+### Welcome to my Git profile  
  I am **CHIMA**. A Cloud Engineer by PASSION.
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=generalfocus)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xlimtech)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 
