@@ -25,17 +25,8 @@
 
 
 
-### Glad to see you here!  
-I strive to create simple, original, and impactful **solutions**. A Cloud Engineer by PASSION && Helpful By Nature.
-
-I take on projects of all sizes and have lead the development and design of products, teams and systems in known companies locally and internationally.
-
-I’m the Founder of **Capriquota** and curated CodeIQ. I find myself during my spare time building intellectual gladiators by teaching statistics and I.T related skill.
-
-⚡**FUN FACT:** I love watching anime || swimming || practicing martial art && participating in HACKATHONS; [Learning , Sharing, CodeLord] 
-
-
-{{--Your Low Budget DJ --}}😂 
+### Welcome to my Git profile HEADER 
+ I am **CHIMA**. A Cloud Engineer by PASSION.
 
 <br/>
 
