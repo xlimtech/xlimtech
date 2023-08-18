@@ -1,4 +1,4 @@
-![Banner Imag](https://github.com/GeneralFocus/GeneralFocus/blob/main/download.png)  
+![Banner Imag](https://github.com/xlimtech/xlimtech/blob/main/xlim-banner.webp)  
   
 
   
