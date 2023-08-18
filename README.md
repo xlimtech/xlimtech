@@ -39,16 +39,9 @@
 
 ## Rapidfire  
 
-* Best Tech Website Winner @NaijaHacks 🏆
-* 1st Position @NCS Innovation Presentation Competition 🥇
-* 2nd Position @NCS Software Development Competition 🥈
-* 3rd Position @TechMoneyAfrica 🥉
-* Nacos Innovative programmer of the year 2019 🏆
-* Innovative student of the year 2020 🏆
-* First and Ex Google DSC Lead (MAPOLY) 🔥
-* Nacos National Secretary General ✍️
-* Ex Nacos Mapoly Software Director 👨‍🏫 👨🏾‍💻
-* Kung fu 🥋 (Red Belt)  
+* Cloud Practioner
+* Solution Architect
+* AWS BEAST
   
 
 <br/>  
